@@ -14,4 +14,4 @@ def test_fail():
 
 def test_pass(seven):
     """Check something cool"""
-    assert seven == 8
+    assert seven == 7
